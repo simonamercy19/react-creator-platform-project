@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-creator-platform-project/static/css/main.dd0d9a4d.chunk.css",
+    "main.js": "/react-creator-platform-project/static/js/main.c18c9517.chunk.js",
+    "main.js.map": "/react-creator-platform-project/static/js/main.c18c9517.chunk.js.map",
+    "runtime~main.js": "/react-creator-platform-project/static/js/runtime~main.96d5f78f.js",
+    "runtime~main.js.map": "/react-creator-platform-project/static/js/runtime~main.96d5f78f.js.map",
+    "static/js/2.cdaf74fd.chunk.js": "/react-creator-platform-project/static/js/2.cdaf74fd.chunk.js",
+    "static/js/2.cdaf74fd.chunk.js.map": "/react-creator-platform-project/static/js/2.cdaf74fd.chunk.js.map",
+    "index.html": "/react-creator-platform-project/index.html",
+    "precache-manifest.a73c3b69c13fd281c2cffbf530c67270.js": "/react-creator-platform-project/precache-manifest.a73c3b69c13fd281c2cffbf530c67270.js",
+    "service-worker.js": "/react-creator-platform-project/service-worker.js",
+    "static/css/main.dd0d9a4d.chunk.css.map": "/react-creator-platform-project/static/css/main.dd0d9a4d.chunk.css.map",
+    "static/media/style.scss": "/react-creator-platform-project/static/media/icomoon.a9756eaa.eot",
+    "static/media/merch-mock.png": "/react-creator-platform-project/static/media/merch-mock.31d9d128.png",
+    "static/media/profile_pic.jpeg": "/react-creator-platform-project/static/media/profile_pic.0e841f42.jpeg",
+    "static/media/request-img.svg": "/react-creator-platform-project/static/media/request-img.1e7735c7.svg",
+    "static/media/shop-item1.jpg": "/react-creator-platform-project/static/media/shop-item1.9a5a459f.jpg",
+    "static/media/ticket-new.jpg": "/react-creator-platform-project/static/media/ticket-new.8d692432.jpg",
+    "static/media/user_profile.jpg": "/react-creator-platform-project/static/media/user_profile.8e5ac0ea.jpg"
+  }
+}
