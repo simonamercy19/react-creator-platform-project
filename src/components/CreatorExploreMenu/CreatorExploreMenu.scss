@@ -1,0 +1,49 @@
+.creator-explore-menu-section {
+    margin: 30px auto 100px;
+    
+    .tab-content {
+        margin-bottom: 50px;
+
+        .title {
+            font-size: 42px;
+            word-spacing: 1px;
+            letter-spacing: 1px;
+            font-weight: 200;
+            text-align: center;
+            margin: 40px auto 0px;
+        } 
+        .creator-cards-container{
+            margin: 20px auto;
+        }
+        .home {
+            .creators {
+                margin-top: 100px;
+            }
+            .creator-cards-container{
+                margin-top: 20px;
+            }
+        }
+    }
+    .tabHead {
+      
+        .nav {
+          
+            .nav-item {
+
+                .nav-link {
+                    @media only screen and (max-width: 768px) {
+                        padding: 10px 3px;   
+                    }
+                    span[class^="icon-"] {
+                         @media (max-width: 768px) {
+                            display: block;
+                            margin-bottom: 10px;
+                        }
+                      }
+                }
+            }
+        }
+    }
+
+}
+
