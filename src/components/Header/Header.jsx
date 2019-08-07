@@ -8,7 +8,7 @@ class Header extends React.Component {
     return (
       <Container>
         <Navbar className="header-navbar" expand="md">
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="/react-creator-platform-project">
               LOGO
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -18,7 +18,7 @@ class Header extends React.Component {
                 <span className="icon-search-mobile"></span>
                 <FormControl type="text" placeholder="Search" className="mr-sm-2 round-input search-input" />
               </Form>
-              <Nav.Link href="/">Explore</Nav.Link>
+              <Nav.Link href="/react-creator-platform-project">Explore</Nav.Link>
               <Link to="/ControlPanel">
                 <div className="user-profile-head">
                   <Image src="https://i.pinimg.com/originals/7d/7b/eb/7d7beb95030a5a6ae4817b79ebb856d2.jpg" />
