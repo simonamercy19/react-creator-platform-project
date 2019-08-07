@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "090e282f4b01072b29c3b11fab1741ab",
+    "revision": "3db94b4c093a0180dddabcb08e6325f5",
     "url": "/react-creator-platform-project/index.html"
   },
   {
-    "revision": "4bccc2ebaa58341ce22b",
-    "url": "/react-creator-platform-project/static/css/main.dd0d9a4d.chunk.css"
+    "revision": "0c7b4e17aabe621f8de3",
+    "url": "/react-creator-platform-project/static/css/main.f0df5cb6.chunk.css"
   },
   {
-    "revision": "59e4c302736fe7a34999",
-    "url": "/react-creator-platform-project/static/js/2.b8bb798a.chunk.js"
+    "revision": "47916083715cdd504cd0",
+    "url": "/react-creator-platform-project/static/js/2.0c3709c6.chunk.js"
   },
   {
-    "revision": "4bccc2ebaa58341ce22b",
-    "url": "/react-creator-platform-project/static/js/main.59ef7dab.chunk.js"
+    "revision": "0c7b4e17aabe621f8de3",
+    "url": "/react-creator-platform-project/static/js/main.01734a4a.chunk.js"
   },
   {
     "revision": "680fa4b2732cc53d5ed3",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "18d44f79b3979ec168862093208c6d7d",
     "url": "/react-creator-platform-project/static/media/Roboto-Regular.18d44f79.ttf"
+  },
+  {
+    "revision": "c71f7f8bc78812ad6a9e3cce9aee84e6",
+    "url": "/react-creator-platform-project/static/media/event-img.c71f7f8b.jpg"
   },
   {
     "revision": "2f0faf219d4b7a06bca4ae9d5cb21fc7",
