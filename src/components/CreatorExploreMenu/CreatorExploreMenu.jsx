@@ -128,6 +128,7 @@ import React from "react";
 import { Container, Tab, Nav } from "react-bootstrap";
 import CreatorCatogories from '../CreatorCatogories';
 import CreatorCardDetails from '../CreatorCardDetails';
+import EventCards from '../EventCards';
 
 
 const CreatorExploreMenu = () => {
@@ -167,7 +168,10 @@ const CreatorExploreMenu = () => {
     for(let i=0; i<6 ;i++) {
         allCreators.push(<CreatorCardDetails data={state.CarouselData} key ={i}/>);
     }
-
+    let eventcards=[];
+    for(let i=0; i<3 ;i++) {
+        eventcards.push(<EventCards key ={i}/>);
+    }
     return (
       <div className="creator-explore-menu-section">
         <Tab.Container id="explore-creator-tabs" defaultActiveKey="home">
@@ -189,11 +193,11 @@ const CreatorExploreMenu = () => {
                     <span className="icon-subscribers"></span> All Creators
                   </Nav.Link>
                 </Nav.Item>
-                {/* <Nav.Item>
+                <Nav.Item>
                 <Nav.Link eventKey="events">
                   <span className="icon-Upcoming-Events"></span> Upcoming Events
                 </Nav.Link>
-                </Nav.Item> */}
+                </Nav.Item>
               </Nav>
             </Container>
           </div>
@@ -216,9 +220,11 @@ const CreatorExploreMenu = () => {
               <div className="title">Our Creators</div>
               {allCreators}
             </Tab.Pane>
-            {/* <Tab.Pane eventKey="events">
-              hi events
-            </Tab.Pane> */}
+            <Tab.Pane eventKey="events">
+              <Container className="mt-5">
+                {eventcards}
+              </Container>
+            </Tab.Pane>
           </Tab.Content>
       </Tab.Container>
       </div>

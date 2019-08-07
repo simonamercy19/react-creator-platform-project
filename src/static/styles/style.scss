@@ -6,6 +6,7 @@ $linear-gradient: linear-gradient(to left, #000000 50%, #000000 100%);
 $card-shadow: 1px 9px 25px 7px rgba(193, 192, 192, 0.16);
 $primary-font: 'Lato', sans-serif;
 $secondary-font: 'Roboto mono', sans-serif;
+$black: #2f2f2f;
 
 button {
   font-family: 'Roboto Mono', monospace;
@@ -133,6 +134,8 @@ input {
 @import '../../components/ProfieOverview/ProfieOverview.scss';
 @import '../../components/EditProfileForm/EditProfileForm.scss';
 @import '../../components/TicketCards/TicketCards.scss';
+@import '../../components/EventCards/EventCards.scss';
+
 
 
 html,
