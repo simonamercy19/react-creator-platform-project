@@ -13,9 +13,9 @@ const CreatorDetailsTimeline = () => {
                         <Button><span className="icon-feedmessage"></span></Button>
                     </div>
                 </div>
-                <h3 className="title-name font-weight-bold">Holland Roden</h3>
+                <h3 className="title-name font-weight-bold">Holland Mercy</h3>
                 <p className="decs">
-                    Hi Guys! Lets Video Chat on the Meet&Greet App on May 16 to Raise Money for Children Mending Hearts.
+                Fusce commodo aliquam arcu. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Quisque rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
                 </p>
             </div>
         </div>

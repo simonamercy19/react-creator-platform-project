@@ -8,7 +8,7 @@ const CreatorPostCard = () => {
             <Row>
                 <Col xs={10} md={11} className="creator-details">
                     <Image src="https://images.pexels.com/photos/266958/pexels-photo-266958.jpeg" alt="Profile Pic" />
-                    <div className="username">Holland Roden</div>
+                    <div className="username">Holland Mercy</div>
                 </Col>
                 <Col xs={2} md={1} className="action-section">
                     <span class="icon-more"></span>
