@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3db94b4c093a0180dddabcb08e6325f5",
+    "revision": "c6520bd5810be451237fcd6300a194b4",
     "url": "/react-creator-platform-project/index.html"
   },
   {
-    "revision": "0c7b4e17aabe621f8de3",
+    "revision": "ad1c2b97c31bce95ae20",
     "url": "/react-creator-platform-project/static/css/main.f0df5cb6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-creator-platform-project/static/js/2.0c3709c6.chunk.js"
   },
   {
-    "revision": "0c7b4e17aabe621f8de3",
-    "url": "/react-creator-platform-project/static/js/main.01734a4a.chunk.js"
+    "revision": "ad1c2b97c31bce95ae20",
+    "url": "/react-creator-platform-project/static/js/main.3ed6c55d.chunk.js"
   },
   {
     "revision": "680fa4b2732cc53d5ed3",
